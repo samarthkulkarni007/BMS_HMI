@@ -1,0 +1,12 @@
+../PROJECT/HMI.c:18:6:set_value	16	static
+../PROJECT/HMI.c:23:6:set_text	16	static
+../PROJECT/HMI.c:28:6:set_progress_bar	16	static
+../PROJECT/HMI.c:34:6:set_circular_bar	16	static
+../PROJECT/HMI.c:39:6:computer_bms_cell_error	16	static
+../PROJECT/HMI.c:58:6:computer_bms_temperature_error	16	static
+../PROJECT/HMI.c:90:6:compute_bms_current_error	16	static
+../PROJECT/HMI.c:110:6:set_bms_soc	16	static
+../PROJECT/HMI.c:117:6:set_bms_ah	16	static
+../PROJECT/HMI.c:123:6:computer_bms_cell_deviation_error	16	static
+../PROJECT/HMI.c:140:6:computer_motor_error_rh	24	static
+../PROJECT/HMI.c:158:6:computer_motor_error_lh	24	static

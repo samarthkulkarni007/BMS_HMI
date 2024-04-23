@@ -1,0 +1,4 @@
+../PROJECT/CAN.c:57:7:can_init	8	static
+../PROJECT/CAN.c:113:7:bms_can_transmit	24	static
+../PROJECT/CAN.c:159:7:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+../PROJECT/CAN.c:179:6:can_recieve_task	16	static
